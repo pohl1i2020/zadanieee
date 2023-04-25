@@ -1,0 +1,23 @@
+/* form {
+  border-style: solid;
+  border-radius: 1rem;
+  /* margin: ; */
+/* padding: auto; */
+/* } * */
+form {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+label {
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+}
+
+#submit_button {
+  text-align: center;
+}
